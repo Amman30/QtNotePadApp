@@ -178,7 +178,7 @@ void MainWindow::on_actionBold_triggered()
 
 void MainWindow::on_actionUnBold_triggered()
 {
- ui->textEdit->setFontWeight(QFont::Light);
+ ui->textEdit->setFontWeight(QFont::Normal);
 
 }
 
