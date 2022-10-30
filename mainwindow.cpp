@@ -123,6 +123,7 @@ about_me += " PROJECT HANDLING \n";
 about_me += " PLAYING GUITAR \n";
 about_me += " GYM \n";
 about_me += " CRICKET \n";
+about_me += " Code \n";
 
 QMessageBox ::about(this,"ME",about_me);
 
