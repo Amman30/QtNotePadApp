@@ -24,9 +24,4 @@ THIS APPLICATION IS CREATED SIMPLY AND NO FANCY OPTION OTHERTHAN WHAT WAS ASKED 
 <li> SUBSCRIPT</li>
 <li> ABOUT ME</li>
 </ul>
-I have also added the icons of the same features.
-Challenges: Since i was'nt familiar with QTcreator Application before there using it was a new challenge to face but since i have been working with c++ it was 
-easy to learn basic of the same.
-After creating the app the most challenging part in building this app was <h3>SUPERSCRIPT</h3> and <h3>SUBSCRIPT</h3> but somehow i managed to work on it. 
-
 PS: IT WAS NICE LEARNING PHASE FOR ME. I ENJOYED IT!
